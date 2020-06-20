@@ -37,3 +37,7 @@ body {
 .navbar-dark {
     background-color: #9575CD;
 }
+
+.card-header {
+    background-color: #fdc02f;
+}
